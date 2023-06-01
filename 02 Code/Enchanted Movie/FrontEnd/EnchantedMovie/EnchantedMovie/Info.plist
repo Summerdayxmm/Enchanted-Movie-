@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>EleyangHello-Regular.ttf</string>
+		<string></string>
+		<string>Railly.ttf</string>
+		<string>England Hand DB.ttf</string>
+		<string>Exmouth.ttf</string>
+		<string>Dynalight.ttf</string>
+		<string>bobacups-4bxow.ttf</string>
+	</array>
+</dict>
+</plist>
